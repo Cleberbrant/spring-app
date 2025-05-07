@@ -1,7 +1,3 @@
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
 # WEMOB Fleet Station
 
   
@@ -112,7 +108,7 @@ cp = ChargeBox(id = chargeboxId,
               )
  ```
 
-> [ !CAUTION]
+> [!CAUTION]
 > - Crie uma cópia do simulador no seu drive antes de utilizar para os testes.
 
 > [ !WARNING]
