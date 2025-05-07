@@ -1,3 +1,4 @@
+
 # WEMOB Fleet Station
 
   
@@ -111,7 +112,7 @@ cp = ChargeBox(id = chargeboxId,
 > [!CAUTION]
 > - Crie uma cópia do simulador no seu drive antes de utilizar para os testes.
 
-> [ !WARNING]
+> [!WARNING]
 > - Sempre rode todas as células ao executar o programa pela primeira vez (Ctrl + F9)
 > - Para garantir o funcionamento correto, encerre o programa com a entrada de texto 'X', dessa forma, é necessário rodar apenas a última célula para comissionar uma nova estação.
 > - Caso o programa não tenha sido encerrado corretamente e apresente problemas, basta reiniciar o ambiente de execução no menu 'Ambiente de execução' > 'Reiniciar ambiente de execução'.
